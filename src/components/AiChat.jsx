@@ -212,7 +212,7 @@ const AiChat = ({ openAiChat, setOpenAiChat }) => {
                 <button
                   key={index}
                   onClick={() => handleQuestionClick(faq)}
-                  className="flex-shrink-0 dark:text-white px-3 py-2 text-sm bg-white dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded-lg hover:bg-blue-100 dark:hover:bg-blue-900 transition"
+                  className="flex-shrink-0 dark:text-white cursor-pointer px-3 py-2 text-sm bg-white dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded-lg hover:bg-blue-100 dark:hover:bg-blue-900 transition"
                 >
                   {faq.question}
                 </button>

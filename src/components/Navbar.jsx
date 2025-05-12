@@ -44,7 +44,8 @@ const Navbar = ({ darktheme, setDarktheme,openAiChat,setOpenAiChat }) => {
   return (
     <div className={`flex items-center justify-between shadow-lg h-16  w-full z-10 dark:bg-gray-900 dark:text-white bg-white text-gray-800 transition-colors duration-300`}>
       <div className="flex items-center px-4 md:px-6 lg:px-8">
-        <h1 className="text-2xl font-bold tracking-tight">
+        <h1 className="text-2xl font-bold tracking-tight flex items-center">
+          <img src="https://www.shutterstock.com/image-vector/double-ss-logo-vector-design-600nw-1966117285.jpg" alt="" srcset="" className='w-10 rounded-full mr-3'/>
           <span className='dark:text-blue-400 text-blue-600'>Soft</span>
           <span>Shell</span>
         </h1>
