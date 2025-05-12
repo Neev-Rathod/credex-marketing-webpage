@@ -2,6 +2,11 @@
 
 A modern, responsive, single-page marketing site for a fictional software license resale startup **SoftSell**. This project showcases clean UI, good UX, responsive design, and interactive elements like animations and a mock AI assistant.
 
+## 🌐 Live Demo
+Check out the deployed project here:  
+🔗 [https://credex-marketing-webpage.vercel.app/](https://credex-marketing-webpage.vercel.app/)
+
+
 ## 🚀 Features Implemented
 
 ### 🔹 Hero Section
