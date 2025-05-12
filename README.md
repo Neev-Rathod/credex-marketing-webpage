@@ -1,12 +1,71 @@
-# React + Vite
+# SoftSell - One Page Marketing Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, single-page marketing site for a fictional software license resale startup **SoftSell**. This project showcases clean UI, good UX, responsive design, and interactive elements like animations and a mock AI assistant.
 
-Currently, two official plugins are available:
+## 🚀 Features Implemented
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🔹 Hero Section
+- Bold headline and subheading written to quickly convey value
+- Call-to-action button: **"Sell My Licenses"**
 
-## Expanding the ESLint configuration
+### 🔹 How It Works
+- 3-step visual process:
+  - Upload License
+  - Get Valuation
+  - Get Paid
+- Each step accompanied by icons (via `react-icons`)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔹 Why Choose Us
+- Four tiles highlighting key selling points:
+  - Competitive Payouts
+  - Fast Processing
+  - Secure Transactions
+  - Trusted by 100+ Companies
+
+### 🔹 Customer Testimonials
+- Two dummy testimonials with:
+  - Name
+  - Role
+  - Company
+
+### 🔹 Contact / Lead Form
+- Fields: Name, Email, Company, License Type (dropdown), Message
+- Frontend validation implemented
+
+### 🔹 Mock AI Assistant (Bonus)
+- Floating AI chat widget using **Framer Motion**
+- Accepts hardcoded queries like:
+  - "How do I sell my license?"
+  - "Is the process secure?"
+- Returns helpful mock responses
+
+## 💻 Tech Stack
+
+- **React + Vite** for modern fast development
+- **Tailwind CSS** for styling and responsive layout
+- **Framer Motion** for smooth animations
+- **React Icons** for visual clarity
+- **Mocked AI chat** 
+
+## 🌗 Bonus Features
+
+- ✅ Light/Dark mode toggle
+- ✅ Responsive on mobile and desktop
+- ✅ SEO Meta Tags and Page Title
+- ✅ Logo placeholder + favicon included
+
+## 🧠 Design Choices
+
+- **Typography & Colors**: Clean font with a tech-inspired color palette (blues and grays) to convey trust and professionalism.
+- **Layout**: Scrollable sections with plenty of whitespace for readability
+- **Animations**: Subtle transitions and framer-based effects to enhance UX without overwhelming
+
+## ⏱️ Time Spent
+
+- Planning & Design: ~0.5 hours  
+- Development & Layout: ~5 hours  
+- AI Assistant Mock + Polishing: ~1.5 hour  
+
+Total: **~7 hours**
+
+---
